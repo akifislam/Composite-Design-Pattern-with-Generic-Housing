@@ -6,7 +6,7 @@ Akif Islam<br>
 Department of CSE, University of Rajshahi<br>
 iamakifislam@gmail.com<br><br><br>
 
-## Experiment 03
+## Experiment 04
 <p>Write a Java program to demonstrate the implementation of a composite design pattern by using an example with a building composed of generic housing structures.</p>
 
 ## Story of the Program
